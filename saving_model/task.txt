@@ -1,0 +1,2 @@
+1. saving model folder push on github
+2. saving the model of all the projects that you have done till now
